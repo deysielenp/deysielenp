@@ -36,6 +36,6 @@ Meu nome é Deysielen PÂmela Fialho da Silva, Tenho 30 anos e sou natural de Br
     alt="GitHub Star"
     heigth="200"
     style="padding-right: 10px;"
-    scr=https://github-readme-stats.vercel.app/api?username=DeysielenP&show_icons=true&theme=dark&include_all_coomits=true&locale=pt=br
+    scr="https://github-readme-stats.vercel.app/api/top-langs/?username=deysielenp&theme=dark&layout=compact&custom_tittle=Tecnologias&langs=count=9"
 />
 </p>
