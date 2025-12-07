@@ -16,14 +16,6 @@ Meu nome é Deysielen PÂmela Fialho da Silva, Tenho 30 anos e sou natural de Br
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    aling="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
  />
  <img 
     aling="left"
@@ -31,7 +23,7 @@ Meu nome é Deysielen PÂmela Fialho da Silva, Tenho 30 anos e sou natural de Br
     title="PYTHON"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"       
 />
 <br/>
 <br/>
