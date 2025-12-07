@@ -30,5 +30,4 @@ Meu nome é Deysielen PÂmela Fialho da Silva, Tenho 30 anos e sou natural de Br
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github.com/deysielenp/deysielenp&show_icons=true&theme=radical)
 
